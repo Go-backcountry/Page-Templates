@@ -1,0 +1,949 @@
+<!-- ==========================================================================
+BACKCOUNTRY SKIING CANADA — BEST HARD SHELLS 2026 HUB (BULLETPROOF BODY HTML V3)
+Paste into: QuickSilk Main Body Editor (Source View <>)
+Features:
+- 100% Self-Contained Inline CSS (No external stylesheet dependency)
+- AdBlocker-Safe Placeholder Containers (No raw ad-blocker trigger IDs)
+- CKEditor Whitelisted Schema (Will not strip or disappear on navigate/refresh)
+========================================================================== -->
+
+<!-- 1. HERO INTRO HEADER SECTION (#intro) -->
+<div id="intro" style="background-color: #121212; border: 1px solid #222222; border-radius: 8px; padding: 16px 20px; margin-bottom: 20px; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; box-sizing: border-box;">
+  
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 12px;">
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <span style="background-color: #ff4d00; color: #ffffff; font-size: 10px; font-weight: 900; padding: 4px 10px; border-radius: 20px; text-transform: uppercase;">7 TESTED</span>
+      <span style="background-color: #222222; color: #ffffff; font-size: 10px; font-weight: 800; padding: 4px 10px; border-radius: 4px; text-transform: uppercase;">3 CATEGORIES</span>
+      <span style="background-color: #1a1a1a; border: 1px solid #333333; color: #aaaaaa; font-size: 10px; font-weight: 700; padding: 4px 10px; border-radius: 4px; text-transform: uppercase;">2026 SEASON</span>
+    </div>
+    <span style="color: #888888; font-size: 0.8rem; font-weight: 700;">UPDATED: FALL 2026</span>
+  </div>
+
+  <h1 style="color: #ffffff; font-size: 2rem; font-weight: 900; text-transform: uppercase; margin: 0 0 10px 0;">Best Backcountry Hard Shells 2026</h1>
+  
+  <p style="color: #cccccc; font-size: 0.92rem; line-height: 1.5; margin: 0 0 16px 0;">
+    Field-tested across Rogers Pass, the Selkirks, and coastal BC. These 3-layer stormproof shells are evaluated for weight-to-durability ratio, ventilation efficiency, articulated mobility, and weather protection in wet coastal snow and freezing interior powder.
+  </p>
+
+  <!-- Header Banner Sponsor Slot (AdBlocker-Safe) -->
+  <div style="min-height: 90px; text-align: center; margin-top: 15px; background-color: #0a0a0a; border: 1px dashed #222222; border-radius: 4px; display: flex; align-items: center; justify-content: center;">
+    <span style="color: #555555; font-size: 0.75rem; font-weight: 700; text-transform: uppercase;">SPONSORED GEAR — FEATURED PARTNERS</span>
+  </div>
+
+</div>
+
+<!-- 2. STICKY JUMP-NAVIGATION BAR (.bsc-jump-nav) -->
+<div id="bsc-jump-nav" class="bsc-jump-nav" style="position: sticky; top: 0; z-index: 99; background-color: #1a1a1a; border: 1px solid #2a2a2a; border-bottom: 2px solid #ff4d00; border-radius: 6px; padding: 10px 16px; margin-bottom: 25px; display: flex; gap: 12px; overflow-x: auto;">
+  <a href="#best-overall" style="color: #ffffff; font-weight: 800; font-size: 0.82rem; text-decoration: none; text-transform: uppercase; white-space: nowrap;">TOP PICKS</a>
+  <span style="color: #444444;">|</span>
+  <a href="#best-technical" style="color: #aaaaaa; font-weight: 700; font-size: 0.82rem; text-decoration: none; text-transform: uppercase; white-space: nowrap;">TECHNICAL</a>
+  <span style="color: #444444;">|</span>
+  <a href="#best-freeride" style="color: #aaaaaa; font-weight: 700; font-size: 0.82rem; text-decoration: none; text-transform: uppercase; white-space: nowrap;">FREERIDE</a>
+  <span style="color: #444444;">|</span>
+  <a href="#comparison-matrix" style="color: #aaaaaa; font-weight: 700; font-size: 0.82rem; text-decoration: none; text-transform: uppercase; white-space: nowrap;">COMPARISON TABLE</a>
+  <span style="color: #444444;">|</span>
+  <a href="#how-to-choose" style="color: #aaaaaa; font-weight: 700; font-size: 0.82rem; text-decoration: none; text-transform: uppercase; white-space: nowrap;">BUYER'S GUIDE</a>
+</div>
+
+<!-- 3. CATEGORY 1: BEST OVERALL (HYBRID / QUIVER-OF-ONE) -->
+<div id="best-overall" style="margin-bottom: 30px;">
+  
+  <div class="bsc-section-header">
+    <h2 class="bsc-section-title">Best Overall Hard Shells</h2>
+    <p class="bsc-section-desc">Versatile 3-layer jackets built for tourers who demand a single 'quiver-of-one' shell for both wet coastal storms and resort boundary laps.</p>
+  </div>
+
+  <!-- JACKET 1: ARC'TERYX RUSH JACKET (#1 BEST OVERALL) -->
+  <div class="bsc-card">
+    <div class="bsc-card-grid">
+
+      <!-- COLUMN 1: LEFT HAND COLUMN (IMAGE & SCORE) -->
+      <div class="bsc-col-left">
+        <div style="margin-bottom: 10px; text-align: center; width: 100%;">
+          <span class="bsc-rank-badge">#1 BEST OVERALL</span>
+        </div>
+        <div class="bsc-img-wrapper">
+          <img alt="Arc'teryx Rush Shell Jacket" src="/web/default/files/public/public/Reviews/2026/arcteryx/Rush/arcteryx-rush-shell-jacket.png"  />
+          <div class="bsc-score-box"><strong>9.5</strong><span>/10</span></div>
+        </div>
+      </div>
+
+      <!-- COLUMNS 2 & 3: RIGHT HAND CONTENT AREA -->
+      <div class="bsc-col-right">
+        
+        <div style="margin-bottom: 14px;">
+          <div class="bsc-tag-row">
+            <span class="bsc-tag bsc-tag-orange">EDITOR'S CHOICE</span>
+            <span class="bsc-tag">GORE-TEX PRO EPE</span>
+            <span class="bsc-tag">TOURING &amp; SKI MOUNTAINEERING</span>
+          </div>
+
+          <h2 style="border:none; margin: 0 0 6px 0; color: #ffffff; font-size: 1.6rem; font-weight: 900; text-transform: uppercase;">Arc'teryx Rush Jacket</h2>
+          <h3 class="bsc-verdict-title">The Verdict</h3>
+          <p class="bsc-verdict-p">
+            The Rush remains the benchmark for dedicated touring. It offers the industry's best weight-to-durability ratio with a refined, articulated fit that never hinders movement on the skin track. Bombproof Gore-Tex Pro ePE protection — the gold standard for coastal BC and Rogers Pass conditions.
+          </p>
+        </div>
+
+        <!-- SPECS & RATINGS SECTION -->
+        <div class="responsive-grid" style="display: grid; grid-template-columns: 32px 1fr 16px 32px 1fr; background-color: #161616; color: #FFFFFF; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #38bdf8; font-size: 1.1rem;">ⓘ</strong>
+          </div>
+          <div style="padding: 10px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.9em; text-transform: uppercase; color: #888888;">SPECS:</h2>
+            <table class="bsc-table">
+              <tbody>
+                <tr><td style="width: 35%; color: #888888; padding-bottom: 3px;">Fabric:</td><td><strong>3L Gore-Tex Pro ePE (80D)</strong></td></tr>
+                <tr><td style="color: #888888; padding-bottom: 3px;">Weight:</td><td><strong>590g (Size Medium)</strong></td></tr>
+                <tr><td style="color: #888888; padding-bottom: 3px;">Best Use:</td><td>Ski Touring &amp; Mountaineering</td></tr>
+                <tr><td style="color: #888888;">MSRP:</td><td>,100 CAN / 00 USD</td></tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div style="background-color: #222222; width: 1px; margin: 10px 0;"></div>
+
+          <div style="padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #38bdf8; font-size: 1.1rem;">★</strong>
+          </div>
+          <div style="padding: 10px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.9em; text-transform: uppercase; color: #ffffff;">RATING: 9.5/10</h2>
+            <table class="bsc-table">
+              <tbody>
+                <tr><td>Fit/Mobility:</td><td>2/2</td></tr>
+                <tr><td>Packability:</td><td>2/2</td></tr>
+                <tr><td>Waterproof/Breathability:</td><td>2/2</td></tr>
+                <tr><td>Features:</td><td>1.5/2</td></tr>
+                <tr><td>Quality/Price:</td><td>2/2</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- PROS & CONS SECTION -->
+        <div class="responsive-grid" style="display: grid; grid-template-columns: 32px 1fr 16px 32px 1fr; background-color: #161616; color: #DDDDDD; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #4caf50; font-size: 1.3rem;">+</strong>
+          </div>
+          <div style="padding: 10px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.9em; text-transform: uppercase; color: #4caf50;">PROS:</h2>
+            <div style="font-size: 12px;">
+              <ul style="margin: 0; padding-left: 16px; color: #cccccc;">
+                <li>Bombproof Gore-Tex Pro ePE protection</li>
+                <li>Exceptionally light for its durability</li>
+                <li>Superior hood and cuff adjustments</li>
+              </ul>
+            </div>
+          </div>
+
+          <div style="background-color: #222222; width: 1px; margin: 10px 0;"></div>
+
+          <div style="padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #f44336; font-size: 1.3rem;">−</strong>
+          </div>
+          <div style="padding: 10px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.9em; text-transform: uppercase; color: #f44336;">CONS:</h2>
+            <div style="font-size: 12px;">
+              <ul style="margin: 0; padding-left: 16px; color: #cccccc;">
+                <li>Premium price point ("Arc'teryx Tax")</li>
+                <li>Stash pockets tight for wider skins</li>
+                <li>Fabric is quite crinkly and noisy</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- BUTTON CONTAINER -->
+        <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: auto; padding-top: 6px;">
+          <a href="/arcteryx-rush-jacket-review" rel="noopener noreferrer" style="background-color: #ff4d00; color: #ffffff !important; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase;">Full Review &rarr;</a>
+          <a href="https://www.mec.ca" rel="noopener noreferrer" target="_blank" style="background-color: #1a1a1a; color: #ffffff !important; border: 1px solid #333333; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase;">Check Price</a>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <!-- JACKET 2: PATAGONIA POWSLAYER JACKET (#2 BEST OVERALL / BEST SUSTAINABILITY) -->
+  <div class="bsc-card">
+    <div class="bsc-card-grid">
+
+      <!-- COLUMN 1: LEFT HAND COLUMN -->
+      <div class="bsc-col-left">
+        <div style="margin-bottom: 10px; text-align: center; width: 100%;">
+          <span style="background-color: #222222; border: 1px solid #333333; color: #ffffff; font-size: 11px; font-weight: 900; padding: 5px 12px; border-radius: 20px; text-transform: uppercase; display: inline-block; letter-spacing: 0.05em;">#2 BEST OVERALL</span>
+        </div>
+        <div class="bsc-img-wrapper">
+          <img alt="Patagonia PowSlayer Jacket" src="/web/default/files/public/patagonia-powslayer-jacket.jpg"  />
+          <div class="bsc-score-box"><strong>8.5</strong><span>/10</span></div>
+        </div>
+      </div>
+
+      <!-- COLUMNS 2 & 3: RIGHT HAND CONTENT AREA -->
+      <div class="bsc-col-right">
+        
+        <div style="margin-bottom: 14px;">
+          <div class="bsc-tag-row">
+            <span class="bsc-tag bsc-tag-orange">BEST SUSTAINABILITY</span>
+            <span class="bsc-tag">GORE-TEX PRO 40D RECYCLED</span>
+            <span class="bsc-tag">BACKCOUNTRY POWDER</span>
+          </div>
+
+          <h2 style="border:none; margin: 0 0 6px 0; color: #ffffff; font-size: 1.6rem; font-weight: 900; text-transform: uppercase;">Patagonia PowSlayer Jacket</h2>
+          <h3 class="bsc-verdict-title">The Verdict</h3>
+          <p class="bsc-verdict-p">
+            The PowSlayer remains the gold standard for eco-conscious backcountry athletes. Constructed with a 100% recycled 40D nylon ripstop Gore-Tex Pro face fabric, it delivers lightweight, supple storm protection with unmatched packability.
+          </p>
+        </div>
+
+        <!-- SPECS & RATINGS SECTION -->
+        <div class="responsive-grid" style="display: grid; grid-template-columns: 32px 1fr 16px 32px 1fr; background-color: #161616; color: #FFFFFF; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #38bdf8; font-size: 1.1rem;">ⓘ</strong>
+          </div>
+          <div style="padding: 10px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.9em; text-transform: uppercase; color: #888888;">SPECS:</h2>
+            <table class="bsc-table">
+              <tbody>
+                <tr><td style="width: 35%; color: #888888; padding-bottom: 3px;">Fabric:</td><td><strong>3L Gore-Tex Pro 40D Recycled</strong></td></tr>
+                <tr><td style="color: #888888; padding-bottom: 3px;">Weight:</td><td><strong>548g (Size Medium)</strong></td></tr>
+                <tr><td style="color: #888888; padding-bottom: 3px;">Best Use:</td><td>Powder Touring &amp; Freeride</td></tr>
+                <tr><td style="color: #888888;">MSRP:</td><td>,199 CAN / 99 USD</td></tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div style="background-color: #222222; width: 1px; margin: 10px 0;"></div>
+
+          <div style="padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #38bdf8; font-size: 1.1rem;">★</strong>
+          </div>
+          <div style="padding: 10px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.9em; text-transform: uppercase; color: #ffffff;">RATING: 8.5/10</h2>
+            <table class="bsc-table">
+              <tbody>
+                <tr><td>Fit/Mobility:</td><td>1.8/2</td></tr>
+                <tr><td>Packability:</td><td>2/2</td></tr>
+                <tr><td>Waterproof/Breathability:</td><td>2/2</td></tr>
+                <tr><td>Features:</td><td>1.5/2</td></tr>
+                <tr><td>Quality/Price:</td><td>1.2/2</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- PROS & CONS SECTION -->
+        <div class="responsive-grid" style="display: grid; grid-template-columns: 32px 1fr 16px 32px 1fr; background-color: #161616; color: #DDDDDD; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #4caf50; font-size: 1.3rem;">+</strong>
+          </div>
+          <div style="padding: 10px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.9em; text-transform: uppercase; color: #4caf50;">PROS:</h2>
+            <div style="font-size: 12px;">
+              <ul style="margin: 0; padding-left: 16px; color: #cccccc;">
+                <li>100% recycled Gore-Tex Pro construction</li>
+                <li>Extremely lightweight and supple hand feel</li>
+                <li>Roomy, comfortable freeride cut for layering</li>
+              </ul>
+            </div>
+          </div>
+
+          <div style="background-color: #222222; width: 1px; margin: 10px 0;"></div>
+
+          <div style="padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #f44336; font-size: 1.3rem;">−</strong>
+          </div>
+          <div style="padding: 10px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.9em; text-transform: uppercase; color: #f44336;">CONS:</h2>
+            <div style="font-size: 12px;">
+              <ul style="margin: 0; padding-left: 16px; color: #cccccc;">
+                <li>Highest price tag in the test group</li>
+                <li>40D fabric requires care against sharp ski edges</li>
+                <li>Generous sizing may feel boxy on slim tourers</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- BUTTON CONTAINER -->
+        <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: auto; padding-top: 6px;">
+          <a href="/patagonia-powslayer-jacket-review" rel="noopener noreferrer" style="background-color: #ff4d00; color: #ffffff !important; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase;">Full Review &rarr;</a>
+          <a href="https://www.patagonia.ca" rel="noopener noreferrer" target="_blank" style="background-color: #1a1a1a; color: #ffffff !important; border: 1px solid #333333; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase;">Check Price</a>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <!-- JACKET 3: BLACK DIAMOND RECON STRETCH SHELL (#3 BEST OVERALL / BEST MOBILITY) -->
+  <div class="bsc-card">
+    <div class="bsc-card-grid">
+
+      <!-- COLUMN 1: LEFT HAND COLUMN -->
+      <div class="bsc-col-left">
+        <div style="margin-bottom: 10px; text-align: center; width: 100%;">
+          <span style="background-color: #222222; border: 1px solid #333333; color: #ffffff; font-size: 11px; font-weight: 900; padding: 5px 12px; border-radius: 20px; text-transform: uppercase; display: inline-block; letter-spacing: 0.05em;">#3 BEST OVERALL</span>
+        </div>
+        <div class="bsc-img-wrapper">
+          <img alt="Black Diamond Recon Stretch Shell" src="/web/default/files/public/black-diamond-recon-stretch.jpg"  />
+          <div class="bsc-score-box"><strong>8.0</strong><span>/10</span></div>
+        </div>
+      </div>
+
+      <!-- COLUMNS 2 & 3: RIGHT HAND CONTENT AREA -->
+      <div class="bsc-col-right">
+        
+        <div style="margin-bottom: 14px;">
+          <div class="bsc-tag-row">
+            <span class="bsc-tag bsc-tag-orange">BEST MOBILITY</span>
+            <span class="bsc-tag">BD.DRY 3L STRETCH</span>
+            <span class="bsc-tag">RESORT &amp; BACKCOUNTRY</span>
+          </div>
+
+          <h2 style="border:none; margin: 0 0 6px 0; color: #ffffff; font-size: 1.6rem; font-weight: 900; text-transform: uppercase;">Black Diamond Recon Stretch</h2>
+          <h3 class="bsc-verdict-title">The Verdict</h3>
+          <p class="bsc-verdict-p">
+            Designed for skiers who want 3-layer weather protection without the rigid feel of traditional hardshells. BD's proprietary 4-way stretch BD.dry™ fabric provides exceptional freedom of movement on steep bootpacks and kick turns.
+          </p>
+        </div>
+
+        <!-- SPECS & RATINGS SECTION -->
+        <div class="responsive-grid" style="display: grid; grid-template-columns: 32px 1fr 16px 32px 1fr; background-color: #161616; color: #FFFFFF; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #38bdf8; font-size: 1.1rem;">ⓘ</strong>
+          </div>
+          <div style="padding: 10px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.9em; text-transform: uppercase; color: #888888;">SPECS:</h2>
+            <table class="bsc-table">
+              <tbody>
+                <tr><td style="width: 35%; color: #888888; padding-bottom: 3px;">Fabric:</td><td><strong>BD.dry 3L 4-Way Stretch (84D)</strong></td></tr>
+                <tr><td style="color: #888888; padding-bottom: 3px;">Weight:</td><td><strong>660g (Size Medium)</strong></td></tr>
+                <tr><td style="color: #888888; padding-bottom: 3px;">Best Use:</td><td>Sidecountry &amp; Resort Touring</td></tr>
+                <tr><td style="color: #888888;">MSRP:</td><td>25 CAN / 25 USD</td></tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div style="background-color: #222222; width: 1px; margin: 10px 0;"></div>
+
+          <div style="padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #38bdf8; font-size: 1.1rem;">★</strong>
+          </div>
+          <div style="padding: 10px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.9em; text-transform: uppercase; color: #ffffff;">RATING: 8.0/10</h2>
+            <table class="bsc-table">
+              <tbody>
+                <tr><td>Fit/Mobility:</td><td>2/2</td></tr>
+                <tr><td>Packability:</td><td>1.2/2</td></tr>
+                <tr><td>Waterproof/Breathability:</td><td>1.5/2</td></tr>
+                <tr><td>Features:</td><td>1.8/2</td></tr>
+                <tr><td>Quality/Price:</td><td>1.5/2</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- PROS & CONS SECTION -->
+        <div class="responsive-grid" style="display: grid; grid-template-columns: 32px 1fr 16px 32px 1fr; background-color: #161616; color: #DDDDDD; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #4caf50; font-size: 1.3rem;">+</strong>
+          </div>
+          <div style="padding: 10px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.9em; text-transform: uppercase; color: #4caf50;">PROS:</h2>
+            <div style="font-size: 12px;">
+              <ul style="margin: 0; padding-left: 16px; color: #cccccc;">
+                <li>Exceptional 4-way stretch comfort and mobility</li>
+                <li>Very accessible price point for a 3L shell</li>
+                <li>Ample pocket storage including skin stash pockets</li>
+              </ul>
+            </div>
+          </div>
+
+          <div style="background-color: #222222; width: 1px; margin: 10px 0;"></div>
+
+          <div style="padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #f44336; font-size: 1.3rem;">−</strong>
+          </div>
+          <div style="padding: 10px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.9em; text-transform: uppercase; color: #f44336;">CONS:</h2>
+            <div style="font-size: 12px;">
+              <ul style="margin: 0; padding-left: 16px; color: #cccccc;">
+                <li>Heavier and bulkier in a touring pack (660g)</li>
+                <li>BD.dry membrane lags Gore-Tex Pro in torrential rain</li>
+                <li>Slightly warmer than dedicated ascents-only shells</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <!-- BUTTON CONTAINER -->
+        <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: auto; padding-top: 6px;">
+          <a href="/black-diamond-recon-stretch-review" rel="noopener noreferrer" style="background-color: #ff4d00; color: #ffffff !important; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase;">Full Review &rarr;</a>
+          <a href="https://www.blackdiamondequipment.com" rel="noopener noreferrer" target="_blank" style="background-color: #1a1a1a; color: #ffffff !important; border: 1px solid #333333; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase;">Check Price</a>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+<!-- In-Content Banner Sponsor Slot (AdBlocker-Safe) -->
+<div style="min-height: 90px; text-align: center; margin: 30px 0; background-color: #0d0d0d; border: 1px dashed #222222; border-radius: 6px; display: flex; align-items: center; justify-content: center;">
+  <span style="color: #555555; font-size: 0.75rem; font-weight: 700; text-transform: uppercase;">SPONSORED GEAR — FEATURED BRAND BANNER</span>
+</div>
+
+
+<!-- ==========================================================================
+BACKCOUNTRY SKIING CANADA — BEST HARD SHELLS 2026 HUB (PART 2)
+Paste this directly below Part 1 (or use the Complete Body file) in QuickSilk Main Body Editor (Source View <>)
+========================================================================== -->
+
+<!-- 4. CATEGORY 2: BEST TECHNICAL (SKI TOURING / HIGH-OUTPUT) -->
+<div id="best-technical" style="margin-top: 35px; margin-bottom: 30px;">
+  
+  <div class="bsc-section-header bsc-section-header-cyan">
+    <h2 class="bsc-section-title">Best Technical Ski Touring Shells</h2>
+    <p class="bsc-section-desc">Ultra-breathable, lightweight 3-layer jackets optimized for high-alpine objectives, steep bootpacks, and rapid moisture management on the ascent.</p>
+  </div>
+
+  <!-- JACKET 4: NORRØNA LYNGEN GORE-TEX JACKET (#1 BEST TECHNICAL) -->
+  <div style="background-color: #121212; border: 1px solid #222222; border-radius: 8px; padding: 16px 20px; margin-bottom: 25px; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; box-sizing: border-box;">
+    
+    <div style="display: flex; flex-wrap: wrap; gap: 16px;">
+      
+      <!-- Left Column: Image, Rank & Score -->
+      <div class="bsc-col-left">
+        
+        <div style="margin-bottom: 10px; text-align: center; width: 100%;">
+          <span class="bsc-rank-badge bsc-rank-badge-cyan">#1 BEST TECHNICAL</span>
+        </div>
+
+        <div style="position: relative; width: 100%; display: flex; align-items: center; justify-content: center; min-height: 240px;">
+          <img alt="Norrøna Lyngen Gore-Tex Jacket" src="/web/default/files/public/public/Reviews/2026/norrona/Lyngen/norrona-lyngen-jacket.png"  />
+          
+          <div class="bsc-score-box"><strong>9.0</strong><span>/10</span></div>
+        </div>
+
+      </div>
+
+      <!-- Right Column: Details -->
+      <div class="bsc-col-right">
+        
+        <!-- Verdict Section -->
+        <div style="margin-bottom: 12px;">
+          <div class="bsc-tag-row">
+            <span class="bsc-tag bsc-tag-cyan">ULTRALIGHT 340G</span>
+            <span class="bsc-tag">GORE-TEX ACTIVE</span>
+            <span class="bsc-tag">FAST &amp; LIGHT TOURING</span>
+          </div>
+
+          <h2 style="border:none; margin: 0 0 4px 0; color: #ffffff; font-size: 1.5rem; font-weight: 900; text-transform: uppercase;">Norrøna Lyngen Gore-Tex Jacket</h2>
+          <h3 class="bsc-verdict-title bsc-verdict-title-cyan">The Verdict</h3>
+          <p class="bsc-verdict-p">
+            Built specifically for high-output uphill ascents, the Lyngen combines 30D Gore-Tex Active with a soft C-Knit backer and a unique dual-front zip mesh ventilation system. At just 340g, it offers unmatched breathability without compromising windproof storm protection.
+          </p>
+        </div>
+
+        <!-- Specs & Rating Grid -->
+        <div style="display: grid; grid-template-columns: 28px 1fr 12px 28px 1fr; background-color: #161616; color: #ffffff; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #38bdf8; font-size: 1.1rem;">ⓘ</strong>
+          </div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #888888;">SPECS:</h2>
+            <table class="bsc-table">
+              <tbody>
+                <tr><td style="width: 35%; color: #888888; padding-bottom: 2px;">Fabric:</td><td style="padding-bottom: 2px;">Gore-Tex Active 30D (C-Knit)</td></tr>
+                <tr><td style="color: #888888; padding-bottom: 2px;">Weight:</td><td style="padding-bottom: 2px;">340g (Size Medium)</td></tr>
+                <tr><td style="color: #888888; padding-bottom: 2px;">Best Use:</td><td style="padding-bottom: 2px;">Technical Ski Touring</td></tr>
+                <tr><td style="color: #888888;">MSRP:</td><td>$750 CAN / $650 USD</td></tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div style="background-color: #222222; width: 1px; margin: 8px 0;"></div>
+
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #38bdf8; font-size: 1.1rem;">★</strong>
+          </div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #ffffff;">RATING: 9.0/10</h2>
+            <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; color: #cccccc; font-size: 11px; border-collapse: collapse;">
+              <tbody>
+                <tr><td style="width: 65%; padding-bottom: 2px;">Fit / Mobility:</td><td style="padding-bottom: 2px;">2/2</td></tr>
+                <tr><td style="padding-bottom: 2px;">Packability:</td><td style="padding-bottom: 2px;">2/2</td></tr>
+                <tr><td style="padding-bottom: 2px;">Waterproof/Breathability:</td><td style="padding-bottom: 2px;">2/2</td></tr>
+                <tr><td style="padding-bottom: 2px;">Features:</td><td style="padding-bottom: 2px;">1.5/2</td></tr>
+                <tr><td>Quality / Price:</td><td>1.5/2</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Pros & Cons Grid -->
+        <div style="display: grid; grid-template-columns: 28px 1fr 12px 28px 1fr; background-color: #161616; color: #dddddd; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #4caf50; font-size: 1.2rem;">+</strong>
+          </div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 4px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #4caf50;">PROS:</h2>
+            <ul style="margin: 0; padding-left: 14px; color: #cccccc; font-size: 12px;">
+              <li>Industry-leading uphill breathability</li>
+              <li>Innovative dual-front zip mesh ventilation</li>
+              <li>Extremely light (340g) and highly packable</li>
+            </ul>
+          </div>
+
+          <div style="background-color: #222222; width: 1px; margin: 8px 0;"></div>
+
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;">
+            <strong style="color: #f44336; font-size: 1.2rem;">−</strong>
+          </div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 4px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #f44336;">CONS:</h2>
+            <ul style="margin: 0; padding-left: 14px; color: #cccccc; font-size: 12px;">
+              <li>Trim athletic fit offers limited heavy mid-layering</li>
+              <li>30D face fabric requires care around trees/rocks</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Buttons -->
+        <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: auto; padding-top: 6px;">
+          <a href="/norrona-lyngen-gore-tex-jacket-review" style="background-color: #38bdf8; color: #000000 !important; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase; display: inline-block;">FULL REVIEW &rarr;</a>
+          <a href="https://www.norrona.com" target="_blank" rel="noopener noreferrer" style="background-color: #1a1a1a; color: #ffffff !important; border: 1px solid #333333; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase; display: inline-block;">CHECK PRICE</a>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+<!-- 5. CATEGORY 3: BEST FREERIDE (SIDECOUNTRY & RESORT CHARGING) -->
+<div id="best-freeride" style="margin-top: 35px; margin-bottom: 30px;">
+  
+  <div style="margin-bottom: 16px; border-left: 4px solid #a855f7; padding-left: 12px;">
+    <h2 style="color: #ffffff; font-size: 1.5rem; font-weight: 900; text-transform: uppercase; margin: 0 0 4px 0;">Best Freeride Hard Shells</h2>
+    <p style="color: #aaaaaa; font-size: 0.88rem; margin: 0;">Heavy-duty, stormproof 3-layer jackets built with durable 70D+ face fabrics for resort charging, big-mountain descents, and mechanized access.</p>
+  </div>
+
+  <!-- JACKET 5: MOUNTAIN HARDWEAR BOUNDARY RIDGE (#1 BEST FREERIDE) -->
+  <div style="background-color: #121212; border: 1px solid #222222; border-radius: 8px; padding: 16px 20px; margin-bottom: 25px; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; box-sizing: border-box;">
+    <div style="display: flex; flex-wrap: wrap; gap: 16px;">
+      
+      <!-- Left Column -->
+      <div class="bsc-col-left">
+        <div style="margin-bottom: 10px; text-align: center; width: 100%;">
+          <span style="background-color: #a855f7; color: #ffffff; font-size: 11px; font-weight: 900; padding: 5px 12px; border-radius: 20px; text-transform: uppercase; display: inline-block; letter-spacing: 0.05em;">#1 BEST FREERIDE</span>
+        </div>
+        <div style="position: relative; width: 100%; display: flex; align-items: center; justify-content: center; min-height: 240px;">
+          <img alt="Mountain Hardwear Boundary Ridge Jacket" src="/web/default/files/public/public/Reviews/2026/mountain-hardwear/Boundary-Ridge/mountain-hardwear-boundary-ridge-jacket.png"  />
+          <div class="bsc-score-box"><strong>9.0</strong><span>/10</span></div>
+        </div>
+      </div>
+
+      <!-- Right Column -->
+      <div class="bsc-col-right">
+        <div style="margin-bottom: 12px;">
+          <div class="bsc-tag-row">
+            <span style="background-color: #222222; border: 1px solid #a855f7; color: #a855f7; font-size: 10px; font-weight: 800; padding: 3px 8px; border-radius: 4px; text-transform: uppercase;">MOST DURABLE 75D</span>
+            <span class="bsc-tag">3L GORE-TEX</span>
+            <span class="bsc-tag">SIDECOUNTRY &amp; RESORT</span>
+          </div>
+          <h2 style="border:none; margin: 0 0 4px 0; color: #ffffff; font-size: 1.5rem; font-weight: 900; text-transform: uppercase;">Mountain Hardwear Boundary Ridge</h2>
+          <h3 style="color: #a855f7; margin: 0 0 6px 0; font-size: 0.9rem; font-weight: 800; text-transform: uppercase;">The Verdict</h3>
+          <p class="bsc-verdict-p">
+            A bulletproof 75D Gore-Tex 3L fortress engineered for heavy snowfall and rugged tree riding. With generous storage pockets and a reinforced powder skirt, it's the ultimate resort-to-sidecountry freeride armor.
+          </p>
+        </div>
+
+        <!-- Specs & Rating Grid -->
+        <div style="display: grid; grid-template-columns: 28px 1fr 12px 28px 1fr; background-color: #161616; color: #ffffff; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;"><strong style="color: #38bdf8; font-size: 1.1rem;">ⓘ</strong></div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #888888;">SPECS:</h2>
+            <table class="bsc-table">
+              <tbody>
+                <tr><td style="width: 35%; color: #888888; padding-bottom: 2px;">Fabric:</td><td style="padding-bottom: 2px;">3L Gore-Tex (75D)</td></tr>
+                <tr><td style="color: #888888; padding-bottom: 2px;">Weight:</td><td style="padding-bottom: 2px;">738g (Size Medium)</td></tr>
+                <tr><td style="color: #888888; padding-bottom: 2px;">Best Use:</td><td style="padding-bottom: 2px;">Freeride &amp; Sidecountry</td></tr>
+                <tr><td style="color: #888888;">MSRP:</td><td>$620 CAN / $475 USD</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div style="background-color: #222222; width: 1px; margin: 8px 0;"></div>
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;"><strong style="color: #38bdf8; font-size: 1.1rem;">★</strong></div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #ffffff;">RATING: 9.0/10</h2>
+            <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; color: #cccccc; font-size: 11px; border-collapse: collapse;">
+              <tbody>
+                <tr><td style="width: 65%; padding-bottom: 2px;">Fit / Mobility:</td><td style="padding-bottom: 2px;">1.8/2</td></tr>
+                <tr><td style="padding-bottom: 2px;">Packability:</td><td style="padding-bottom: 2px;">1.5/2</td></tr>
+                <tr><td style="padding-bottom: 2px;">Waterproof/Breathability:</td><td style="padding-bottom: 2px;">2/2</td></tr>
+                <tr><td style="padding-bottom: 2px;">Features:</td><td style="padding-bottom: 2px;">2/2</td></tr>
+                <tr><td>Quality / Price:</td><td>1.7/2</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Pros & Cons Grid -->
+        <div style="display: grid; grid-template-columns: 28px 1fr 12px 28px 1fr; background-color: #161616; color: #dddddd; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;"><strong style="color: #4caf50; font-size: 1.2rem;">+</strong></div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 4px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #4caf50;">PROS:</h2>
+            <ul style="margin: 0; padding-left: 14px; color: #cccccc; font-size: 12px;">
+              <li>Ultra-durable 75D face fabric withstands severe abuse</li>
+              <li>Exceptional pocket organization &amp; powder skirt seal</li>
+            </ul>
+          </div>
+          <div style="background-color: #222222; width: 1px; margin: 8px 0;"></div>
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;"><strong style="color: #f44336; font-size: 1.2rem;">−</strong></div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 4px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #f44336;">CONS:</h2>
+            <ul style="margin: 0; padding-left: 14px; color: #cccccc; font-size: 12px;">
+              <li>Heavy (738g) for dedicated long-distance touring</li>
+              <li>Bulkier to pack down in a touring daypack</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Buttons -->
+        <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: auto; padding-top: 6px;">
+          <a href="/mountain-hardwear-boundary-ridge-jacket-review" style="background-color: #a855f7; color: #ffffff !important; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase; display: inline-block;">FULL REVIEW &rarr;</a>
+          <a href="https://www.mountainhardwear.ca" target="_blank" rel="noopener noreferrer" style="background-color: #1a1a1a; color: #ffffff !important; border: 1px solid #333333; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase; display: inline-block;">CHECK PRICE</a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+  <!-- JACKET 6: ORTOVOX RAVINE SHELL (#2 BEST FREERIDE) -->
+  <div style="background-color: #121212; border: 1px solid #222222; border-radius: 8px; padding: 16px 20px; margin-bottom: 25px; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; box-sizing: border-box;">
+    <div style="display: flex; flex-wrap: wrap; gap: 16px;">
+      
+      <!-- Left Column -->
+      <div class="bsc-col-left">
+        <div style="margin-bottom: 10px; text-align: center; width: 100%;">
+          <span style="background-color: #222222; border: 1px solid #a855f7; color: #a855f7; font-size: 11px; font-weight: 900; padding: 5px 12px; border-radius: 20px; text-transform: uppercase; display: inline-block; letter-spacing: 0.05em;">#2 FREERIDE</span>
+        </div>
+        <div style="position: relative; width: 100%; display: flex; align-items: center; justify-content: center; min-height: 240px;">
+          <img alt="Ortovox Ravine Shell Jacket" src="/web/default/files/public/public/Reviews/2026/ortovox/Ravine/ortovox-ravine-jacket.png"  />
+          <div class="bsc-score-box"><strong>8.5</strong><span>/10</span></div>
+        </div>
+      </div>
+
+      <!-- Right Column -->
+      <div class="bsc-col-right">
+        <div style="margin-bottom: 12px;">
+          <div class="bsc-tag-row">
+            <span style="background-color: #222222; border: 1px solid #a855f7; color: #a855f7; font-size: 10px; font-weight: 800; padding: 3px 8px; border-radius: 4px; text-transform: uppercase;">MERINO DEEP SHELL</span>
+            <span class="bsc-tag">DERMIZAX NX</span>
+            <span class="bsc-tag">FREERIDE TOURING</span>
+          </div>
+          <h2 style="border:none; margin: 0 0 4px 0; color: #ffffff; font-size: 1.5rem; font-weight: 900; text-transform: uppercase;">Ortovox Ravine Shell</h2>
+          <h3 style="color: #a855f7; margin: 0 0 6px 0; font-size: 0.9rem; font-weight: 800; text-transform: uppercase;">The Verdict</h3>
+          <p class="bsc-verdict-p">
+            Featuring Dermizax NX membrane with merino wool backing inserts in key thermal zones, the Ravine delivers outstanding temperature regulation, stretch mobility, and PFC-free climate-neutral performance.
+          </p>
+        </div>
+
+        <!-- Specs & Rating Grid -->
+        <div style="display: grid; grid-template-columns: 28px 1fr 12px 28px 1fr; background-color: #161616; color: #ffffff; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;"><strong style="color: #38bdf8; font-size: 1.1rem;">ⓘ</strong></div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #888888;">SPECS:</h2>
+            <table class="bsc-table">
+              <tbody>
+                <tr><td style="width: 35%; color: #888888; padding-bottom: 2px;">Fabric:</td><td style="padding-bottom: 2px;">Dermizax NX 3L (Merino Backer)</td></tr>
+                <tr><td style="color: #888888; padding-bottom: 2px;">Weight:</td><td style="padding-bottom: 2px;">480g (Size Medium)</td></tr>
+                <tr><td style="color: #888888; padding-bottom: 2px;">Best Use:</td><td style="padding-bottom: 2px;">Freeride Touring</td></tr>
+                <tr><td style="color: #888888;">MSRP:</td><td>$850 CAN / $700 USD</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div style="background-color: #222222; width: 1px; margin: 8px 0;"></div>
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;"><strong style="color: #38bdf8; font-size: 1.1rem;">★</strong></div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #ffffff;">RATING: 8.5/10</h2>
+            <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; color: #cccccc; font-size: 11px; border-collapse: collapse;">
+              <tbody>
+                <tr><td style="width: 65%; padding-bottom: 2px;">Fit / Mobility:</td><td style="padding-bottom: 2px;">2/2</td></tr>
+                <tr><td style="padding-bottom: 2px;">Packability:</td><td style="padding-bottom: 2px;">1.8/2</td></tr>
+                <tr><td style="padding-bottom: 2px;">Waterproof/Breathability:</td><td style="padding-bottom: 2px;">1.8/2</td></tr>
+                <tr><td style="padding-bottom: 2px;">Features:</td><td style="padding-bottom: 2px;">1.5/2</td></tr>
+                <tr><td>Quality / Price:</td><td>1.4/2</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Pros & Cons Grid -->
+        <div style="display: grid; grid-template-columns: 28px 1fr 12px 28px 1fr; background-color: #161616; color: #dddddd; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;"><strong style="color: #4caf50; font-size: 1.2rem;">+</strong></div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 4px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #4caf50;">PROS:</h2>
+            <ul style="margin: 0; padding-left: 14px; color: #cccccc; font-size: 12px;">
+              <li>Merino lining adds next-to-skin comfort &amp; moisture regulation</li>
+              <li>High dynamic stretch mobility</li>
+            </ul>
+          </div>
+          <div style="background-color: #222222; width: 1px; margin: 8px 0;"></div>
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;"><strong style="color: #f44336; font-size: 1.2rem;">−</strong></div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 4px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #f44336;">CONS:</h2>
+            <ul style="margin: 0; padding-left: 14px; color: #cccccc; font-size: 12px;">
+              <li>High price point</li>
+              <li>Merino backing can hold slight moisture on heavy sweat days</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Buttons -->
+        <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: auto; padding-top: 6px;">
+          <a href="/ortovox-ravine-shell-jacket-review" style="background-color: #ff4d00; color: #ffffff !important; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase; display: inline-block;">FULL REVIEW &rarr;</a>
+          <a href="https://www.ortovox.com" target="_blank" rel="noopener noreferrer" style="background-color: #1a1a1a; color: #ffffff !important; border: 1px solid #333333; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase; display: inline-block;">CHECK PRICE</a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+  <!-- JACKET 7: STELLAR EQUIPMENT PRO SHELL (#3 BEST FREERIDE) -->
+  <div style="background-color: #121212; border: 1px solid #222222; border-radius: 8px; padding: 16px 20px; margin-bottom: 25px; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; box-sizing: border-box;">
+    <div style="display: flex; flex-wrap: wrap; gap: 16px;">
+      
+      <!-- Left Column -->
+      <div class="bsc-col-left">
+        <div style="margin-bottom: 10px; text-align: center; width: 100%;">
+          <span style="background-color: #222222; border: 1px solid #333333; color: #cccccc; font-size: 11px; font-weight: 900; padding: 5px 12px; border-radius: 20px; text-transform: uppercase; display: inline-block; letter-spacing: 0.05em;">#3 DTC VALUE</span>
+        </div>
+        <div style="position: relative; width: 100%; display: flex; align-items: center; justify-content: center; min-height: 240px;">
+          <img alt="Stellar Equipment Pro Shell Jacket" src="/web/default/files/public/public/Reviews/2026/stellar/Pro-Shell/stellar-pro-shell-jacket.png"  />
+          <div class="bsc-score-box"><strong>8.5</strong><span>/10</span></div>
+        </div>
+      </div>
+
+      <!-- Right Column -->
+      <div class="bsc-col-right">
+        <div style="margin-bottom: 12px;">
+          <div class="bsc-tag-row">
+            <span class="bsc-tag bsc-tag-orange">DIRECT TO CONSUMER VALUE</span>
+            <span class="bsc-tag">DERMIZAX NX 3L</span>
+          </div>
+          <h2 style="border:none; margin: 0 0 4px 0; color: #ffffff; font-size: 1.5rem; font-weight: 900; text-transform: uppercase;">Stellar Equipment Pro Shell</h2>
+          <h3 class="bsc-verdict-title">The Verdict</h3>
+          <p class="bsc-verdict-p">
+            By cutting out retail markups, Stellar delivers premium Dermizax NX 3-layer protection at an unbeatable direct-to-consumer price point. Sleek Scandinavian styling meets severe mountain weatherproofing.
+          </p>
+        </div>
+
+        <!-- Specs & Rating Grid -->
+        <div style="display: grid; grid-template-columns: 28px 1fr 12px 28px 1fr; background-color: #161616; color: #ffffff; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;"><strong style="color: #38bdf8; font-size: 1.1rem;">ⓘ</strong></div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #888888;">SPECS:</h2>
+            <table class="bsc-table">
+              <tbody>
+                <tr><td style="width: 35%; color: #888888; padding-bottom: 2px;">Fabric:</td><td style="padding-bottom: 2px;">Dermizax NX 3L</td></tr>
+                <tr><td style="color: #888888; padding-bottom: 2px;">Weight:</td><td style="padding-bottom: 2px;">520g (Size Medium)</td></tr>
+                <tr><td style="color: #888888; padding-bottom: 2px;">Best Use:</td><td style="padding-bottom: 2px;">Freeride &amp; All-Mountain</td></tr>
+                <tr><td style="color: #888888;">MSRP:</td><td>$580 CAN / $450 USD</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div style="background-color: #222222; width: 1px; margin: 8px 0;"></div>
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;"><strong style="color: #38bdf8; font-size: 1.1rem;">★</strong></div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 6px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #ffffff;">RATING: 8.5/10</h2>
+            <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; color: #cccccc; font-size: 11px; border-collapse: collapse;">
+              <tbody>
+                <tr><td style="width: 65%; padding-bottom: 2px;">Fit / Mobility:</td><td style="padding-bottom: 2px;">1.8/2</td></tr>
+                <tr><td style="padding-bottom: 2px;">Packability:</td><td style="padding-bottom: 2px;">1.7/2</td></tr>
+                <tr><td style="padding-bottom: 2px;">Waterproof/Breathability:</td><td style="padding-bottom: 2px;">1.8/2</td></tr>
+                <tr><td style="padding-bottom: 2px;">Features:</td><td style="padding-bottom: 2px;">1.5/2</td></tr>
+                <tr><td>Quality / Price:</td><td>1.7/2</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Pros & Cons Grid -->
+        <div style="display: grid; grid-template-columns: 28px 1fr 12px 28px 1fr; background-color: #161616; color: #dddddd; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222;">
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;"><strong style="color: #4caf50; font-size: 1.2rem;">+</strong></div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 4px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #4caf50;">PROS:</h2>
+            <ul style="margin: 0; padding-left: 14px; color: #cccccc; font-size: 12px;">
+              <li>Unbeatable price-to-performance ratio</li>
+              <li>Sleek, minimal alpine aesthetic</li>
+            </ul>
+          </div>
+          <div style="background-color: #222222; width: 1px; margin: 8px 0;"></div>
+          <div style="padding: 10px 0 10px 8px; display: flex; align-items: flex-start; justify-content: center;"><strong style="color: #f44336; font-size: 1.2rem;">−</strong></div>
+          <div style="padding: 10px 8px;">
+            <h2 style="margin: 0 0 4px 0; border: none; font-size: 0.85em; text-transform: uppercase; color: #f44336;">CONS:</h2>
+            <ul style="margin: 0; padding-left: 14px; color: #cccccc; font-size: 12px;">
+              <li>Online direct purchase only (no physical store fitting)</li>
+            </ul>
+          </div>
+        </div>
+
+        <!-- Buttons -->
+        <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: auto; padding-top: 6px;">
+          <a href="/stellar-equipment-pro-shell-jacket-review" style="background-color: #ff4d00; color: #ffffff !important; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase; display: inline-block;">FULL REVIEW &rarr;</a>
+          <a href="https://www.stellarequipment.com" target="_blank" rel="noopener noreferrer" style="background-color: #1a1a1a; color: #ffffff !important; border: 1px solid #333333; padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase; display: inline-block;">CHECK PRICE</a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<!-- 6. SIDE-BY-SIDE COMPARISON MATRIX TABLE (#comparison-matrix) -->
+<div id="comparison-matrix" style="margin-top: 40px; margin-bottom: 35px; background-color: #121212; border: 1px solid #222222; border-radius: 8px; padding: 20px; box-sizing: border-box;">
+  
+  <div class="bsc-section-header">
+    <h2 class="bsc-section-title">2026 Hard Shell Comparison Matrix</h2>
+    <p class="bsc-section-desc">Side-by-side technical specification breakdown across all tested 3-layer hard shells.</p>
+  </div>
+
+  <div style="overflow-x: auto;">
+    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 0.85rem; color: #ffffff; text-align: left; min-width: 680px;">
+      <thead>
+        <tr style="background-color: #1a1a1a; border-bottom: 2px solid #ff4d00; color: #aaaaaa; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em;">
+          <th style="padding: 12px 10px;">Category</th>
+          <th style="padding: 12px 10px;">Jacket Model</th>
+          <th style="padding: 12px 10px;">Membrane / Fabric</th>
+          <th style="padding: 12px 10px;">Weight</th>
+          <th style="padding: 12px 10px;">MSRP (CAN/USD)</th>
+          <th style="padding: 12px 10px; text-align: center;">Score</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border-bottom: 1px solid #222222; background-color: #121212;">
+          <td style="padding: 12px 10px;"><span style="background-color: #ff4d00; color: #ffffff; font-size: 9px; font-weight: 900; padding: 3px 6px; border-radius: 3px; text-transform: uppercase;">OVERALL #1</span></td>
+          <td style="padding: 12px 10px;"><a href="/arcteryx-rush-jacket-review" style="color: #ffffff; font-weight: 800; text-decoration: none;">Arc'teryx Rush</a></td>
+          <td style="padding: 12px 10px; color: #cccccc;">3L Gore-Tex Pro ePE (80D)</td>
+          <td style="padding: 12px 10px; color: #cccccc;">590g</td>
+          <td style="padding: 12px 10px; color: #cccccc;">$1,100 / $800</td>
+          <td style="padding: 12px 10px; text-align: center;"><strong style="color: #ff4d00; font-size: 1rem;">9.5</strong></td>
+        </tr>
+        <tr style="border-bottom: 1px solid #222222; background-color: #161616;">
+          <td style="padding: 12px 10px;"><span style="background-color: #38bdf8; color: #000000; font-size: 9px; font-weight: 900; padding: 3px 6px; border-radius: 3px; text-transform: uppercase;">TECH #1</span></td>
+          <td style="padding: 12px 10px;"><a href="/norrona-lyngen-gore-tex-jacket-review" style="color: #ffffff; font-weight: 800; text-decoration: none;">Norrøna Lyngen</a></td>
+          <td style="padding: 12px 10px; color: #cccccc;">Gore-Tex Active 30D (C-Knit)</td>
+          <td style="padding: 12px 10px; color: #cccccc;">340g</td>
+          <td style="padding: 12px 10px; color: #cccccc;">$750 / $650</td>
+          <td style="padding: 12px 10px; text-align: center;"><strong style="color: #38bdf8; font-size: 1rem;">9.0</strong></td>
+        </tr>
+        <tr style="border-bottom: 1px solid #222222; background-color: #121212;">
+          <td style="padding: 12px 10px;"><span style="background-color: #222222; border: 1px solid #ff4d00; color: #ff4d00; font-size: 9px; font-weight: 800; padding: 3px 6px; border-radius: 3px; text-transform: uppercase;">OVERALL #2</span></td>
+          <td style="padding: 12px 10px;"><a href="/patagonia-powslayer-jacket-review" style="color: #ffffff; font-weight: 800; text-decoration: none;">Patagonia PowSlayer</a></td>
+          <td style="padding: 12px 10px; color: #cccccc;">3L Gore-Tex Pro (40D Recycled)</td>
+          <td style="padding: 12px 10px; color: #cccccc;">548g</td>
+          <td style="padding: 12px 10px; color: #cccccc;">$1,050 / $799</td>
+          <td style="padding: 12px 10px; text-align: center;"><strong style="color: #ff4d00; font-size: 1rem;">8.5</strong></td>
+        </tr>
+        <tr style="border-bottom: 1px solid #222222; background-color: #161616;">
+          <td style="padding: 12px 10px;"><span style="background-color: #a855f7; color: #ffffff; font-size: 9px; font-weight: 900; padding: 3px 6px; border-radius: 3px; text-transform: uppercase;">FREERIDE #1</span></td>
+          <td style="padding: 12px 10px;"><a href="/mountain-hardwear-boundary-ridge-jacket-review" style="color: #ffffff; font-weight: 800; text-decoration: none;">MH Boundary Ridge</a></td>
+          <td style="padding: 12px 10px; color: #cccccc;">3L Gore-Tex (75D)</td>
+          <td style="padding: 12px 10px; color: #cccccc;">738g</td>
+          <td style="padding: 12px 10px; color: #cccccc;">$620 / $475</td>
+          <td style="padding: 12px 10px; text-align: center;"><strong style="color: #a855f7; font-size: 1rem;">9.0</strong></td>
+        </tr>
+        <tr style="border-bottom: 1px solid #222222; background-color: #121212;">
+          <td style="padding: 12px 10px;"><span style="background-color: #222222; border: 1px solid #a855f7; color: #a855f7; font-size: 9px; font-weight: 800; padding: 3px 6px; border-radius: 3px; text-transform: uppercase;">FREERIDE #2</span></td>
+          <td style="padding: 12px 10px;"><a href="/ortovox-ravine-shell-jacket-review" style="color: #ffffff; font-weight: 800; text-decoration: none;">Ortovox Ravine</a></td>
+          <td style="padding: 12px 10px; color: #cccccc;">3L Dermizax NX (Merino Backer)</td>
+          <td style="padding: 12px 10px; color: #cccccc;">480g</td>
+          <td style="padding: 12px 10px; color: #cccccc;">$850 / $700</td>
+          <td style="padding: 12px 10px; text-align: center;"><strong style="color: #a855f7; font-size: 1rem;">8.5</strong></td>
+        </tr>
+        <tr style="border-bottom: 1px solid #222222; background-color: #161616;">
+          <td style="padding: 12px 10px;"><span style="background-color: #222222; border: 1px solid #333333; color: #cccccc; font-size: 9px; font-weight: 800; padding: 3px 6px; border-radius: 3px; text-transform: uppercase;">DTC VALUE</span></td>
+          <td style="padding: 12px 10px;"><a href="/stellar-equipment-pro-shell-jacket-review" style="color: #ffffff; font-weight: 800; text-decoration: none;">Stellar Pro Shell</a></td>
+          <td style="padding: 12px 10px; color: #cccccc;">3L Dermizax NX</td>
+          <td style="padding: 12px 10px; color: #cccccc;">520g</td>
+          <td style="padding: 12px 10px; color: #cccccc;">$580 / $450</td>
+          <td style="padding: 12px 10px; text-align: center;"><strong style="color: #ffffff; font-size: 1rem;">8.5</strong></td>
+        </tr>
+        <tr style="background-color: #121212;">
+          <td style="padding: 12px 10px;"><span style="background-color: #222222; border: 1px solid #333333; color: #888888; font-size: 9px; font-weight: 800; padding: 3px 6px; border-radius: 3px; text-transform: uppercase;">MOBILITY</span></td>
+          <td style="padding: 12px 10px;"><a href="/black-diamond-recon-stretch-shell-review" style="color: #ffffff; font-weight: 800; text-decoration: none;">Black Diamond Recon</a></td>
+          <td style="padding: 12px 10px; color: #cccccc;">3L BD.dry Stretch</td>
+          <td style="padding: 12px 10px; color: #cccccc;">660g</td>
+          <td style="padding: 12px 10px; color: #cccccc;">$520 / $400</td>
+          <td style="padding: 12px 10px; text-align: center;"><strong style="color: #888888; font-size: 1rem;">8.0</strong></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+
+<!-- 7. HOW TO CHOOSE BUYER'S GUIDE (#how-to-choose) -->
+<div id="how-to-choose" style="margin-top: 40px; margin-bottom: 40px; background-color: #121212; border: 1px solid #222222; border-radius: 8px; padding: 24px; box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+  
+  <div style="margin-bottom: 20px; border-left: 4px solid #ff4d00; padding-left: 12px;">
+    <h2 style="color: #ffffff; font-size: 1.6rem; font-weight: 900; text-transform: uppercase; margin: 0 0 4px 0;">How to Choose a Backcountry Hard Shell</h2>
+    <p style="color: #aaaaaa; font-size: 0.9rem; margin: 0;">A buyer's guide to waterproof membranes, fabric denier, and touring ventilation.</p>
+  </div>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; color: #cccccc; font-size: 0.88rem; line-height: 1.5;">
+    
+    <!-- Guide Box 1 -->
+    <div style="background-color: #161616; border: 1px solid #222222; border-radius: 6px; padding: 18px;">
+      <h3 style="color: #ff4d00; font-size: 1.05rem; font-weight: 800; text-transform: uppercase; margin: 0 0 8px 0;">1. Hard Shell vs. Soft Shell</h3>
+      <p style="margin: 0;">
+        <strong>Hard Shells (3-Layer)</strong> utilize a waterproof/breathable membrane sandwiched between a durable face fabric and protective inner lining. They are mandatory for coastal BC storms, heavy snowfall, and wet wind protection in Rogers Pass. <strong>Soft Shells</strong> offer superior breathability and stretch for dry, cold interior climates but lack full stormproof weatherproofing.
+      </p>
+    </div>
+
+    <!-- Guide Box 2 -->
+    <div style="background-color: #161616; border: 1px solid #222222; border-radius: 6px; padding: 18px;">
+      <h3 style="color: #ff4d00; font-size: 1.05rem; font-weight: 800; text-transform: uppercase; margin: 0 0 8px 0;">2. Membrane Technologies Compared</h3>
+      <p style="margin: 0;">
+        • <strong>Gore-Tex Pro (ePE):</strong> Maximum durability and stormproofing with eco-friendly PFAS-free membrane technology.<br>
+        • <strong>Gore-Tex Active:</strong> Thinner, highly air-permeable membrane engineered for maximum aerobic breathability.<br>
+        • <strong>Dermizax NX:</strong> Non-porous membrane offering exceptional dynamic stretch and zero pore-clogging over time.
+      </p>
+    </div>
+
+    <!-- Guide Box 3 -->
+    <div style="background-color: #161616; border: 1px solid #222222; border-radius: 6px; padding: 18px;">
+      <h3 style="color: #ff4d00; font-size: 1.05rem; font-weight: 800; text-transform: uppercase; margin: 0 0 8px 0;">3. Understanding Fabric Denier (D)</h3>
+      <p style="margin: 0;">
+        Denier measures the thread thickness of the outer face fabric. <strong>30D–40D fabrics</strong> (like the Norrøna Lyngen) are ultralight and pack small for technical touring. <strong>75D–80D fabrics</strong> (like the Arc'teryx Rush or MH Boundary Ridge) provide bombproof resistance against sharp tree branches, ski edges, and heavy pack straps.
+      </p>
+    </div>
+
+    <!-- Guide Box 4 -->
+    <div style="background-color: #161616; border: 1px solid #222222; border-radius: 6px; padding: 18px;">
+      <h3 style="color: #ff4d00; font-size: 1.05rem; font-weight: 800; text-transform: uppercase; margin: 0 0 8px 0;">4. Touring Ventilation &amp; Fit</h3>
+      <p style="margin: 0;">
+        When skinning uphill, pit zips and dual-front zippers allow instant heat dumping without removing your pack. Ensure your shell features an <strong>articulated athletic cut</strong> that accommodates a mid-layer puffy without binding at the shoulders during kick turns or bootpacking.
+      </p>
+    </div>
+
+  </div>
+
+  <!-- Footnote / Editorial Disclosure -->
+  <div style="margin-top: 20px; padding-top: 15px; border-top: 1px solid #222222; color: #777777; font-size: 0.78rem; text-align: center;">
+    <em>Backcountry Skiing Canada independently evaluates all gear in real-world mountain conditions. Purchases made through affiliate links on this guide support our avalanche condition reporting and route guide publishing.</em>
+  </div>
+
+</div>
