@@ -1,0 +1,276 @@
+<!-- GTM, DATA LAYER & DYNAMIC JUMP NAV HEAD CODE INSERTION (V8) -->
+<!-- Paste strictly into: Page Properties > Advanced > Head Code Insertion -->
+
+<!-- 1. Data Layer Taxonomy Object for GTM Key-Value Ad Targeting & Tracking -->
+<script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({
+  'event': 'content_view',
+  'PageDetails': {
+    'category': 'reviews',
+    'subCategory': 'jacket',
+    'style': 'hardShell',
+    'season': 'winter'
+  }
+});
+</script>
+
+<!-- 2. Google Tag Manager Master Container -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WPPVR6DP');</script>
+
+<!-- 3. Dynamic Sticky Jump Nav CSS & ScrollSpy Controller -->
+<style>
+#bsc-jump-nav {
+  transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 130px;
+}
+#bsc-jump-nav a {
+  transition: all 0.2s ease-in-out;
+}
+
+/* ==========================================================================
+   BSC DESIGN SYSTEM (CLEAN REUSABLE CSS FOR HUBS & REVIEWS)
+   ========================================================================== */
+.bsc-card { background-color: #121212; border: 1px solid #222222; border-radius: 8px; padding: 16px 20px; margin-bottom: 24px; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; box-sizing: border-box; }
+.bsc-card-grid { display: flex; flex-wrap: wrap; gap: 16px; }
+.bsc-col-left { flex: 0 0 240px; max-width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #0d0d0d; border-radius: 6px; border: 1px solid #222222; padding: 12px; box-sizing: border-box; }
+.bsc-col-right { flex: 1; min-width: 280px; display: flex; flex-direction: column; }
+
+.bsc-rank-badge { background-color: #ff4d00; color: #ffffff; font-size: 11px; font-weight: 900; padding: 5px 12px; border-radius: 20px; text-transform: uppercase; display: inline-block; letter-spacing: 0.05em; margin-bottom: 10px; text-align: center; }
+.bsc-rank-badge-cyan { background-color: #38bdf8; color: #000000; }
+.bsc-rank-badge-green { background-color: #4caf50; color: #ffffff; }
+
+.bsc-img-wrapper { position: relative; width: 100%; display: flex; align-items: center; justify-content: center; flex: 1; min-height: 240px; }
+.bsc-img-wrapper img { max-width: 100%; max-height: 320px; width: auto; height: auto; object-fit: contain; display: block; margin: auto; }
+.bsc-score-box { position: absolute; bottom: 6px; left: 6px; background-color: rgba(10, 10, 10, 0.9); border: 1px solid #333333; padding: 3px 10px; border-radius: 5px; text-align: center; z-index: 2; }
+.bsc-score-box strong { font-size: 1.2rem; color: #ffffff; }
+.bsc-score-box span { color: #888888; font-size: 0.75rem; font-weight: 700; }
+
+.bsc-tag-row { margin-bottom: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.bsc-tag { background-color: #222222; border: 1px solid #333333; color: #cccccc; font-size: 10px; font-weight: 800; padding: 3px 8px; border-radius: 4px; text-transform: uppercase; }
+.bsc-tag-orange { border-color: #ff4d00; color: #ff4d00; }
+.bsc-tag-cyan { border-color: #38bdf8; color: #38bdf8; }
+
+.bsc-card-title { border: none; margin: 0 0 6px 0; color: #ffffff; font-size: 1.6rem; font-weight: 900; text-transform: uppercase; }
+.bsc-verdict-title { color: #ff4d00; margin: 0 0 6px 0; font-size: 0.9rem; font-weight: 800; text-transform: uppercase; }
+.bsc-verdict-title-cyan { color: #38bdf8; }
+.bsc-verdict-p { color: #cccccc; font-size: 0.88rem; line-height: 1.45; margin: 0; }
+
+.bsc-subgrid { display: grid; grid-template-columns: 32px 1fr 15px 32px 1fr; background-color: #161616; color: #FFFFFF; width: 100%; box-sizing: border-box; line-height: 1.35; margin-bottom: 12px; border-radius: 6px; border: 1px solid #222222; }
+.bsc-icon-col { padding: 12px 0 12px 10px; display: flex; align-items: flex-start; justify-content: center; }
+.bsc-cell-body { padding: 10px 12px; }
+.bsc-cell-title { margin: 0 0 6px 0; border: none; font-size: 0.95em; text-transform: uppercase; color: #ffffff; font-weight: 800; }
+.bsc-cell-title-dim { color: #888888; }
+.bsc-cell-title-green { color: #4caf50; }
+.bsc-cell-title-red { color: #f44336; }
+.bsc-divider { background-color: #222222; width: 1px; margin: 10px 0; }
+
+.bsc-table { width: 100%; color: #ffffff; font-size: 12px; border-collapse: collapse; }
+.bsc-table td { padding-bottom: 3px; vertical-align: top; }
+.bsc-table td.lbl { color: #888888; font-weight: 700; width: 35%; }
+
+.bsc-list { margin: 0; padding-left: 16px; color: #cccccc; font-size: 12px; }
+.bsc-list li { margin-bottom: 2px; }
+
+.bsc-btn-group { display: flex; justify-content: flex-end; gap: 10px; margin-top: auto; padding-top: 8px; }
+.bsc-btn { padding: 8px 18px; border-radius: 20px; text-decoration: none !important; font-weight: 800; font-size: 0.78rem; text-transform: uppercase; display: inline-block; }
+.bsc-btn-orange { background-color: #ff4d00; color: #ffffff !important; }
+.bsc-btn-cyan { background-color: #38bdf8; color: #000000 !important; }
+.bsc-btn-dark { background-color: #1a1a1a; color: #ffffff !important; border: 1px solid #333333; }
+
+/* COMPARISON TABLE & BUYER'S GUIDE UTILITIES */
+.bsc-section { margin-bottom: 30px; }
+.bsc-section-header { margin-bottom: 16px; border-left: 4px solid #ff4d00; padding-left: 12px; }
+.bsc-section-header-cyan { border-left-color: #38bdf8; }
+.bsc-section-header-green { border-left-color: #4caf50; }
+.bsc-section-title { color: #ffffff; font-size: 1.5rem; font-weight: 900; text-transform: uppercase; margin: 0 0 4px 0; }
+.bsc-section-desc { color: #aaaaaa; font-size: 0.88rem; margin: 0; }
+
+.bsc-matrix-wrap { overflow-x: auto; background-color: #121212; border: 1px solid #222222; border-radius: 8px; margin-bottom: 24px; }
+.bsc-matrix-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; color: #dddddd; text-align: left; }
+.bsc-matrix-table th { background-color: #1a1a1a; color: #888888; font-weight: 800; text-transform: uppercase; padding: 12px 14px; border-bottom: 2px solid #2a2a2a; white-space: nowrap; }
+.bsc-matrix-table td { padding: 12px 14px; border-bottom: 1px solid #222222; }
+.bsc-matrix-table tr:nth-child(even) { background-color: #0f0f0f; }
+.bsc-matrix-table tr:hover { background-color: #1a1a1a; }
+
+.bsc-guide-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-bottom: 25px; }
+.bsc-guide-card { background-color: #121212; border: 1px solid #222222; border-radius: 8px; padding: 20px; color: #cccccc; font-size: 0.88rem; line-height: 1.5; }
+.bsc-guide-card h3 { color: #ff4d00; font-size: 1.05rem; font-weight: 800; text-transform: uppercase; margin: 0 0 8px 0; border: none; }
+.bsc-guide-card h3.cyan { color: #38bdf8; }
+.bsc-guide-card h3.green { color: #4caf50; }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const jumpNav = document.getElementById('bsc-jump-nav');
+  if (!jumpNav) return;
+
+  // Detect height of QuickSilk site top navigation bar if present
+  function getSiteHeaderOffset() {
+    // Look for fixed/sticky site header elements
+    const possibleHeaders = document.querySelectorAll('header, .site-header, #header, .navbar, .quicksilk-header, [class*="header"], [class*="nav-top"], [class*="navbar"]');
+    let maxOffset = 0;
+    possibleHeaders.forEach(el => {
+      if (el === jumpNav || el.contains(jumpNav)) return;
+      const style = window.getComputedStyle(el);
+      const rect = el.getBoundingClientRect();
+      if ((style.position === 'fixed' || style.position === 'sticky') && rect.top <= 15 && rect.height > 20 && rect.height < 150) {
+        if (rect.height > maxOffset) {
+          maxOffset = rect.height;
+        }
+      }
+    });
+    // Fallback default top offset if fixed site header is present (default ~60px, adjust if needed)
+    return maxOffset > 0 ? maxOffset : 60;
+  }
+
+  // Placeholder element to reserve vertical layout space when jumpNav is moved to body
+  const placeholder = document.createElement('div');
+  placeholder.id = 'bsc-jump-nav-placeholder';
+  placeholder.style.display = 'none';
+  
+  const originalParent = jumpNav.parentNode;
+  const originalNextSibling = jumpNav.nextSibling;
+  originalParent.insertBefore(placeholder, jumpNav);
+
+  let initialTop = 0;
+  function updateInitialTop() {
+    if (!jumpNav.classList.contains('bsc-is-fixed')) {
+      const rect = jumpNav.getBoundingClientRect();
+      initialTop = rect.top + window.pageYOffset;
+    }
+  }
+  updateInitialTop();
+  window.addEventListener('resize', updateInitialTop);
+
+  const navLinks = jumpNav.querySelectorAll('a[href^="#"]');
+  const sections = Array.from(navLinks).map(link => {
+    const targetId = link.getAttribute('href').slice(1);
+    return document.getElementById(targetId);
+  }).filter(Boolean);
+
+  // Smooth scroll with height offset (accounting for top nav + jump nav)
+  navLinks.forEach(link => {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      const targetId = this.getAttribute('href').slice(1);
+      const targetEl = document.getElementById(targetId);
+      if (targetEl) {
+        const headerOffset = getSiteHeaderOffset();
+        const navHeight = jumpNav.offsetHeight || 50;
+        const totalOffset = headerOffset + navHeight + 15;
+        const targetPos = targetEl.getBoundingClientRect().top + window.pageYOffset - totalOffset;
+        window.scrollTo({
+          top: targetPos,
+          behavior: 'smooth'
+        });
+      }
+    });
+  });
+
+  // Dynamic Viewport Pinning with Top Nav Clearance
+  function handleScroll() {
+    const scrollPos = window.pageYOffset || document.documentElement.scrollTop;
+    const headerOffset = getSiteHeaderOffset();
+
+    if (scrollPos >= (initialTop - headerOffset - 5) && initialTop > 0) {
+      if (!jumpNav.classList.contains('bsc-is-fixed')) {
+        jumpNav.classList.add('bsc-is-fixed');
+        placeholder.style.height = jumpNav.offsetHeight + 'px';
+        placeholder.style.marginBottom = window.getComputedStyle(jumpNav).marginBottom || '25px';
+        placeholder.style.display = 'block';
+
+        // Move jumpNav directly to <body> so position:fixed attaches to the viewport
+        document.body.appendChild(jumpNav);
+
+        jumpNav.style.position = 'fixed';
+        jumpNav.style.top = headerOffset + 'px'; // Sits directly below top navigation bar
+        jumpNav.style.left = '0';
+        jumpNav.style.right = '0';
+        jumpNav.style.width = '100%';
+        jumpNav.style.maxWidth = '1200px';
+        jumpNav.style.margin = '0 auto';
+        jumpNav.style.boxSizing = 'border-box';
+        jumpNav.style.zIndex = '999999';
+        jumpNav.style.borderRadius = '0 0 8px 8px';
+        jumpNav.style.boxShadow = '0 10px 30px rgba(0,0,0,0.95)';
+        jumpNav.style.backgroundColor = 'rgba(26, 26, 26, 0.95)';
+        jumpNav.style.backdropFilter = 'blur(12px)';
+        jumpNav.style.webkitBackdropFilter = 'blur(12px)';
+      } else {
+        // Dynamically keep top updated if headerOffset changes
+        jumpNav.style.top = headerOffset + 'px';
+      }
+    } else {
+      if (jumpNav.classList.contains('bsc-is-fixed')) {
+        jumpNav.classList.remove('bsc-is-fixed');
+        placeholder.style.display = 'none';
+
+        // Move jumpNav back to its original position in the content DOM
+        if (originalNextSibling && originalNextSibling.parentNode === originalParent) {
+          originalParent.insertBefore(jumpNav, originalNextSibling);
+        } else {
+          originalParent.appendChild(jumpNav);
+        }
+
+        jumpNav.style.position = 'relative';
+        jumpNav.style.top = 'auto';
+        jumpNav.style.left = 'auto';
+        jumpNav.style.right = 'auto';
+        jumpNav.style.width = '100%';
+        jumpNav.style.margin = '0 0 25px 0';
+        jumpNav.style.borderRadius = '6px';
+        jumpNav.style.boxShadow = 'none';
+        jumpNav.style.backgroundColor = '#1a1a1a';
+      }
+    }
+
+    // ScrollSpy Active Section Highlighting
+    const navHeight = jumpNav.offsetHeight || 50;
+    const currentCheckPos = scrollPos + headerOffset + navHeight + 100;
+
+    let currentSection = null;
+    sections.forEach(sec => {
+      const top = sec.offsetTop;
+      const height = sec.offsetHeight;
+      if (currentCheckPos >= top && currentCheckPos < top + height) {
+        currentSection = sec;
+      }
+    });
+
+    if ((window.innerHeight + scrollPos) >= document.body.offsetHeight - 60) {
+      if (sections.length > 0) currentSection = sections[sections.length - 1];
+    }
+
+    navLinks.forEach(link => {
+      const targetId = link.getAttribute('href').slice(1);
+      if (currentSection && currentSection.id === targetId) {
+        link.style.backgroundColor = '#ff4d00';
+        link.style.color = '#ffffff';
+        link.style.fontWeight = '900';
+        link.style.borderRadius = '20px';
+        link.style.padding = '5px 14px';
+        link.style.boxShadow = '0 2px 10px rgba(255, 77, 0, 0.5)';
+      } else {
+        link.style.backgroundColor = 'transparent';
+        link.style.color = '#aaaaaa';
+        link.style.fontWeight = '700';
+        link.style.borderRadius = '0';
+        link.style.padding = '5px 8px';
+        link.style.boxShadow = 'none';
+      }
+    });
+  }
+
+  window.addEventListener('scroll', handleScroll, { passive: true });
+  setTimeout(updateInitialTop, 300);
+  handleScroll();
+});
+</script>
